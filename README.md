@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Priyani Rawal and I am a Computer Science Student at Northeastern University in the class of 2029!
 
 <!--
 **priyanirawal/priyanirawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
